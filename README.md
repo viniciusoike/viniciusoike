@@ -29,7 +29,6 @@ Currently Lead Consultant at EKIO and Data Coordinator at Insper.
 
 ## Current Focus
 
-🌱 **Currently learning**: advanced Python for economics and urban data science.
 🔬 **Research interests**: urban economics and time series analysis.
 💼 **Leading**: strategic consulting at EKIO and data at Insper.
 
