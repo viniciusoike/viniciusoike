@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an economist and data scientist with a Master's degree from USP (University of São Paulo) and 7+ years of experience in business consulting. I specialize in urban economics, econometrics, and professional data visualization for strategic decision-making.
+I'm an economist and data scientist with a Master's degree from USP (University of São Paulo) and 8+ years of experience in business consulting. I specialize in urban economics, econometrics, and professional data visualization for strategic decision-making.
 
 Currently Lead Consultant at EKIO and Data Coordinator at Insper.
 
@@ -14,7 +14,7 @@ Currently Lead Consultant at EKIO and Data Coordinator at Insper.
 
 ## What I Do
 
-- **Business Consulting**: 7+ years delivering data-driven insights.
+- **Business Consulting**: 8+ years delivering data-driven insights.
 - **Urban Economics Research**: analyzing housing markets, real estate, urban development patterns.
 - **Data Visualization**: creating professional charts, dashboards, and visual analytics for executive presentations.
 - **Economic Modeling**: building econometric models, time series analysis, and forecasting systems.
@@ -26,11 +26,6 @@ Currently Lead Consultant at EKIO and Data Coordinator at Insper.
 - Professional presentation design and data storytelling.
 - Housing market analysis and real estate economics.
 - Economic forecasting and trend analysis.
-
-## Current Focus
-
-🔬 **Research interests**: urban economics and time series analysis.
-💼 **Leading**: strategic consulting at EKIO and data at Insper.
 
 ## Let's Connect
 
