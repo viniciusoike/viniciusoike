@@ -6,10 +6,6 @@ I'm an economist and data scientist with a Master's degree from USP (University 
 
 Currently Lead Consultant at EKIO and Data Coordinator at Insper.
 
-🌐 **Website**: [restateinsight.com](https://restateinsight.com)  
-💼 **LinkedIn**: [vinicius-oike-reginatto](https://www.linkedin.com/in/vinicius-oike-reginatto-993826a9/)  
-🦋 **Bluesky**: [@viniciusoike.bsky.social](https://bsky.app/profile/viniciusoike.bsky.social)
-
 ## What I Do
 
 - **Business Consulting**: 8+ years delivering data-driven insights.
